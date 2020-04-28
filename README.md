@@ -12,7 +12,7 @@ timer util for unity, easy to use timer.
 6.RemoveTimer(int _timerId);
 ```
 
-### Single Util
+### Singleton Util
 
 ```
 // use XMonoSingleton
