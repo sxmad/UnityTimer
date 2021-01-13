@@ -1,4 +1,4 @@
-# UnityTimer
+# UnityTimer/MonoSingleton/Singleton
 timer util for unity, easy to use timer.
 
 ### Timer Util
